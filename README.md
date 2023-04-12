@@ -1,2 +1,9 @@
-# SearchObject.Jieshuo-addon
-The Extensions that allows the Jieshuo to search for the object that can set the focus in the current interface is not exactly the same as the Jieshuo's own function.
+## 关于 SearchObject.Jieshuo-addon
+
+这是一款能让解说实现搜索当前界面中可设置焦点的对象或控件的插件，它与解说自带的“列表浏览”是不同的。
+
+## 使用方法
+
+下载并将扩展插件导入解说中，导入成功后再扩展插件列表中找到并运行插件。随后会弹出一个对话框，上面有两个编辑框；第一个编辑框是输入想要搜索的对象名称的，第二个编辑框是输入在搜索过程中最多翻多少页进行搜索的（非必填项）。
+
+注：搜索表情仅支持QQ和微信，
